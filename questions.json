@@ -1,0 +1,14 @@
+
+[{
+	"énoncé": "Que représente le symbole: \n X \n ?",
+	"réponse": "Le symbole X représente une matrice de données brutes."
+}, {
+	"énoncé": "Étant donnée une matrice X, que représent les symboles \n p \n N \n ?",
+	"réponse": "Le symbole p représente le nombre de variables (traits, attributs) et aussi le nombre de colonnes. \n (une variable = une colonne)\n Le symbole N représente le nombre de spécimens, observations, objets et aussi le nombre de rangées. \n (un spécimen = une rangée)"
+}, {
+	"énoncé": "Que représente le symbole:\n Y \n?",
+	"réponse": "Le symbole Y représente une matrice formée des  écarts par rapport à la moyenne de chacune des colonnes (variables) de la matrice X."
+}, {
+	"énoncé": "Que représente le symbole: Z?",
+	"réponse": "c'est ca"
+}]

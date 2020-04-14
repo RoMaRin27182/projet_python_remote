@@ -18,7 +18,7 @@ root.geometry(dim)
 
 fontsize=int(root_x/100)
 
-print(screen_width,screen_height)
+# print(screen_width,screen_height)
 
 lbl=Label(root,text="Notation, relations de base",font=("Arial Bold",30),fg="white",bg="blue")
 lbl.grid(column=0,row=0,sticky="W")
@@ -29,8 +29,6 @@ with open("questions.json") as fh:
     liste_questions=json.load(fh)
 
 nb_questions=len(liste_questions)
-
-
 
 class Carte:
     def __init__(self, recto,verso):
